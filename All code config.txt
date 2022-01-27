@@ -1,0 +1,369 @@
+NPCNAME : "url":"InGame/NetworkAIPawn/NetworkAIPartyNPC"
+
+1. "url":"Effects/VFX_Ingame_Laser_CarePackage"-BLUE LINE
+
+2."url":"Effects/VFX_Ingame_Laser" - Yellow Line
+
+3."url":"Effects/VFX_Ingame_Laser_Green" - Green line
+
+4."url":"Effects/VFX_Ingame_Laser_Purple" - Purple Line
+
+5."url":"Effects/VFX_Ingame_Laser_BlueCard" - Small Blue
+
+6."url":"Effects/VFX_Ingame_Laser_RedCard" - Red Line
+
+7."url":"Effects/VFX_Ingame_Laser_Red" - Small Yellow Line
+_________________________________________
+                   NPC NAME+หาของ+อื่นๆ
+NPCNAME : "url":"InGame/NetworkAIPawn/NetworkAIPartyNPC"
+ LASER YELLOW : "url":"Effects/VFX_Ingame_Laser"
+  LASER มว่ง : "url":"Effects/VFX_Ingame_Laser"
+   LASER BLUE : "url":"Effects/VFX_Ingame_Laser_CarePackage"
+    FFCOIN : "FF_MODEL_INGAME_TOKEN" : "url":"Effects/VFX_Ingame_Laser_Purple"
+     ยา : INGAME_PICKUP_FAK ; INGAME_PICKUP_INHALER "url":"Effects/VFX_Ingame_Laser_TDM_Green"
+ ปืนไกล : "url":"Effects/VFX_Ingame_Laser_TDM_Red"
+  สไนเปอร์ :  
+   เกราะ 3 : "url":"Effects/FF_VFX_Dogtag_Buff"
+    ที่ค้นหา : INGAMEPICKUP
+     ปืนใกล้ : "url":"Effects/VFX_Ingame_Laser_BlueCard"
+      moco antenna : "url":"Effects/FF_FX_Guide_Arrow"
+       เดินบนน้ำ 
+       ค้นหา:capsule_human
+       โค้ด:"url":"Effects/VFX_Evaya_Skill"
+       วง CR7:"url":"InGame/InteractionObject/
+       LevelEnergyShield"
+       ตู้เเสงสีฟ้าใส:"url":"InGame/InteractionObject/LevelDetailItemGenerator"
+       สเก็ตบอร์ด: INGAME_VEHICLE_SKATEBOARD_3P
+       โค้ดบินบนฟ้า : "url":"InGame/Football/Football_Easter"
+       "url":"InGame/Football_SnowMan" ลูกบอลหิมะ
+       ทะลุ ค้นหา: "WS_Wooden_box_v1_LD1square"
+       วางทับ: "url":"InGame/LevelObject/Training/Training_Snowball"
+       speed config : ค้นหา SOUND_FIST_punch_1
+       เปลี่ยน : "url":"InGame/SceneEdit/WS_Props/WS_House_B"
+_________________________________________
+
+เสาอากาศ
+เป็น5944คือผู้หญิง
+เลขSize 6704คือผู้ชาย
+1.txt ผู้ชาย
+2.txt ผู้หญิง
+_________________________________________
+
+โค้ดเสาแสงหาของ
+
+"url":"Effects/VFX_Ingame_Laser_CarePackage"
+
+"url":"Effects/VFX_Ingame_Laser_Green"
+
+"url":"Effects/VFX_Ingame_Laser_TDM_Green"
+
+"url":"Effects/VFX_Ingame_Laser_BlueCard"
+
+"url":"Effects/VFX_Ingame_Laser_Purple"
+
+"url":"Effects/VFX_Ingame_Laser_TDM_Red"
+
+"url":"Effects/VFX_Ingame_Laser"
+
+"url":"Effects/VFX_Ingame_Laser_Red"
+
+"url":"Effects/VFX_Ingame_Laser_RedCard"
+
+"url":"Effects/VFX_Ingame_Laser_TDM_Purple"
+
+"url":"Effects/VFX_Inagme_Laser_Shop"
+
+___________________________________________
+สกินไอซ์วอ
+
+INGAME_GLOOSHIELD_BUNKER
+
+InGame/AssistantItem/IceWall_Bunker_Booyahday21
+
+InGame/Assistantltem/IceWall Bunker_Thunder
+
+InGame/AssistantItem/IceWall_Bunker_New_Angelical
+
+InGame/AssistantItem/IceWall_Bunker_Nuclear
+
+___________________________________________
+ทะลุตู้ INGAME LEVEL_SHOP_MODEL
+
+_________________________________________
+
+
+ยา
+
+PICKUP_FAK
+
+ กันชา
+ PICKUP_INHAL
+กระสุน ปืนพก
+AMMO_HG
+
+กระสุน smg
+AMMO_SMG
+
+กระสุน AR
+AMMO_AR
+
+กระสุนลูกซอ
+AMMO_LAN
+
+หมวก3
+PICKUP_HELMET_3
+
+เกราะ3
+PICKUP_ARMOR_3
+
+เป๋า3
+PICKUP_BAG_3
+
+เเม้ก3
+PICKUP_MAGAZINE_3
+
+มัสเซิล3
+PICKUP_MUZZLE_3
+
+สโคบ3
+PICKUP_SCOPE_3
+
+ปืนยิงยา
+pickup_HealingRifle
+pickup_HealingSnipe
+
+_____________________________________________
+
+วิ่งไว   
+SOUND_FIST
+
+InGame/SceneEdit/WS_Props/WS_House_B
+
+กระสุนไม่จำกัด
+
+sound_ชื่อปืน_F
+
+Effects/FF_VFX_Grenade_Explode
+
+_____________________________________________
+
+เด้นใต้น้ำโค้ด  CAPSULE_HUMAN
+
+มีเอฟเฟค
+
+Effects/VFX_HealingDance_Skill
+
+ไม่มีเอฟเฟค
+
+InGame/Football_SnowMan
+_____________________________________________
+
+โค้ดทลุตู้   
+
+INGAME_LEVEL_SHOP_MODEL
+SHOP_JUMP
+InGame/Camouflage/Pickup_Hoverboard
+
+
+ทลุเเอร์ดรอป
+
+AIRDROPBOX_JUM
+InGame/Camouflage/Pickup_Hoverboard
+
+_____________________________________________
+โค้ด Npc Neme  
+
+InGame/NetworkAIPawn/NetworkAIPartyNPC
+
+_____________________________________________
+โค้ด ESP โมโค 
+
+Effects/FF_FX_Guide_Arrow
+
+_____________________________________________
+โค้ดเสาเเสงหาของ
+
+Effects/VFX_Ingame_Laser_CarePackage
+
+Effects/VFX_Ingame_Laser_Green
+
+Effects/VFX_Ingame_Laser_TDM_Green
+
+Effects/VFX_Ingame_Laser_BlueCard
+
+Effects/VFX_Ingame_Laser_Purple
+
+Effects/VFX_Ingame_Laser_TDM_Red
+
+Effects/VFX_Ingame_Laser
+
+Effects/VFX_Ingame_Laser_Red
+
+Effects/VFX_Ingame_Laser_RedCard
+
+Effects/VFX_Ingame_Laser_TDM_Purple
+
+Effects/VFX_Inagme_Laser_Shop
+
+_____________________________________________
+
+โค้ดบิน
+
+หาคำว่า INGAME_ITEM_CAMOUFLAGE_BUSH
+
+สำหรัปคนมีลิง
+
+InGame/Football/Football_Easter
+
+สำหรัปคนไม่มีลิง
+
+INGAME_VEHICLE_SKATEBOARD_COMP
+________________________________________
+
+โค้ดไอซ์วอลล์เล็ก ทลุได้ ไม่สับสน INGAME_GLO 
+
+"url":"InGame/AssistantItem/IceWall_bunker_FFWorldCup"
+_____________________________________________
+
+gloo wall skin
+
+InGame/AssistantItem/IceWall_Bunker_New_Goldwall
+
+InGame/AssistantItem/IceWall_Bunker_New_BRninja
+
+InGame/AssistantItem/IceWall_Bunker_New_Hockeygoalie
+
+InGame/AssistantItem/IceWall_Bunker_New_Spirit
+
+InGame/AssistantItem/IceWall_Bunker_New_Cnnewyear19
+
+InGame/AssistantItem/IceWall_Bunker_New_Ichitan
+
+InGame/AssistantItem/IceWall_Bunker_New_Royalguard_Preorder
+
+InGame/AssistantItem/IceWall_Bunker_New_Sneerdino
+
+InGame/AssistantItem/IceWall_Bunker_New_Dragonseal
+
+InGame/AssistantItem/IceWall_Bunker_New_College
+
+InGame/AssistantItem/IceWall_Bunker_New_Gemini
+
+InGame/AssistantItem/IceWall_Bunker_New_Impermanence
+
+InGame/AssistantItem/IceWall_Bunker_New_Booyahday
+
+InGame/AssistantItem/IceWall_Bunker_New_Warringstates
+
+InGame/AssistantItem/IceWall_Bunker_New_Sugarskull
+
+InGame/AssistantItem/IceWall_Bunker_New_Winterfest2020
+
+InGame/AssistantItem/IceWall_Bunker_New_Flamingarmy
+
+InGame/AssistantItem/IceWall_Bunker_New_Angelical
+
+InGame/AssistantItem/IceWall_Bunker_New_Matryoshka
+
+InGame/AssistantItem/IceWall_Bunker_New_Valentine2021
+
+InGame/AssistantItem/IceWall_Bunker_New_Fireskull
+
+InGame/AssistantItem/IceWall_Bunker_New_Waterfest21
+
+InGame/AssistantItem/IceWall_Bunker_New_Fastbreaking
+
+InGame/AssistantItem/IceWall_Bunker_New_Cuteshiba
+
+InGame/AssistantItem/IceWall_Bunker_New_Evilrhythm
+
+InGame/AssistantItem/IceWall_Bunker_New_Fallwinter
+
+InGame/AssistantItem/IceWall_Bunker_New_Asianoni
+
+InGame/AssistantItem/IceWall_Bunker_New_Winterfest21
+
+InGame/AssistantItem/IceWall_Bunker_New_Eagle
+
+________________________________________
+คาตานะ wall hack
+
+ค้นหา
+KATANA_ATTACK1
+
+KATANA_ATTACK2
+
+"url":"InGame/Assistantltem/ IceWall_Floor3x3"
+_________________________________________
+โค๊ดเสกรถลอยฟ้า
+
+InGame/Vehicles/Vehicle_Monster Truck
+
+_________________________________________
+โค๊ดทะลุทุกอย่าง
+
+ึ"url":"InGame/LevelObject/Training/Training_Snowball"
+_________________________________________
+มุมมองโดรน
+
+INGAME_ITEM_AIRDROPBAR_MALE
+
+url":"InGame/AirTransporter/Plane_B"
+
+_________________________________________
+สกินปืน
+
+M1014="url":"InGame\/Weapons\/Weapon_Skin\/PW\/M1014\/Prefab_Male_3P_PW_M1014_Imperial3"
+
+AK47="url":"InGame\/Weapons\/Weapon_Skin\/PW\/AK47\/Prefab_Male_3P_PW_AK47_Evildragon3"
+
+MP5="url":"InGame\/Weapons\/Weapon_Skin\/PW\/MP5\/Prefab_Male_3P_PW_MP5_Lava_Orange"
+
+EAGLE="url":"IPCooperation\/Bounty\/Prop\/Prefab_Male_3P_SW_Eagle_Bounty
+
+SCAR="url":"InGame\/Weapons\/Weapon_Skin\/PW\/SCAR\/Prefab_Male_3P_PW_SCAR_Shark3"
+
+VECTOR="url":"InGame\/Weapons\/Weapon_Skin\/PW\/Vector\/Prefab_Male_3P_PW_Vector_FFWS2021","useAB":1,"abIdx":184
+
+UMP45="url":"InGame\/Weapons\/Weapon_Skin\/PW\/UMP45\/Prefab_Male_3P_PW_UMP45_Booyahday213"
+
+USP="url":"InGame\/Weapons\/Prefab_DTS_USP45_HANDGUN"
+
+GROZA="url":"InGame\/Weapons\/Weapon_Skin\/PW\/GROZA\/Prefab_Male_3P_PW_GROZA_Pekingopera","useAB":1,"abIdx":185
+
+MP40="url":"InGame\/Weapons\/Weapon_Skin\/PW\/MP40\/Prefab_Male_3P_PW_MP40_Cobra3"
+
+SKS="url":"InGame\/Weapons\/Weapon_Skin\/PW\/SKS\/Prefab_Male_3P_PW_SKS_Gemini","useAB":1,"abIdx":110
+
+M249="url":"InGame\/Weapons\/Weapon_Skin\/PW\/M249\/Prefab_Male_3P_PW_M249_Spine","useAB":1,"abIdx":121
+
+M79="url":"InGame\/Weapons\/Weapon_Skin\/SW\/M79\/Prefab_Male_3P_SW_M79_Hoodlum","useAB":1,"abIdx":132
+
+AN94="url":"InGame\/Weapons\/Weapon_Skin\/PW\/AN94\/Prefab_Male_3P_PW_AN94_Electronic_Orange"
+
+FAMAS="url":"InGame\/Weapons\/Weapon_Skin\/PW\/FAMAS\/Prefab_Male_3P_PW_FAMAS_Blackwidow_DarkGold","useAB":1,"abIdx":42
+
+M4A1="url":"InGame\/Weapons\/Weapon_Skin\/PW\/M4A1\/Prefab_Male_3P_PW_M4A1_Flamingarmy_Green","useAB":1,"abIdx":151
+
+M14="url":"InGame\/Weapons\/Weapon_Skin\/PW\/M14\/Prefab_Male_3P_PW_M14_Eggday2021","useAB":1,"abIdx":153
+
+BM94="url":"InGame\/Weapons\/Weapon_Skin\/PW\/BM94\/Prefab_Male_3P_PW_BM94_Delivery","useAB":1,"abIdx":153
+
+AWM="url":"IPCooperation\/Sutorito\/Prop\/Prefab_Male_3P_PW_AWM_Sutorito","useAB":1,"abIdx":185
+
+KAR98-K="url":"InGame\/Weapons\/Weapon_Skin\/PW\/Kar98K\/Prefab_Male_3P_PW_Kar98K_Executioner","useAB":1,"abIdx":180
+
+AUG="url":"IPCooperation\/Bounty\/Prop\/Prefab_Male_3P_PW_AUG_Bounty","useAB":1,"abIdx":132
+
+PARAFAL=,"url":"InGame\/Weapons\/Weapon_Skin\/PW\/Fal\/Prefab_Male_3P_PW_Fal_ZAtribal"
+
+M60="url":"InGame\/Weapons\/Weapon_Skin\/PW\/M60\/Prefab_Male_3P_PW_M60_Foursymbols_C","useAB":1,"abIdx":175
+
+VSS="url":"InGame\/Weapons\/Weapon_Skin\/PW\/VSS\/Prefab_Male_3P_PW_VSS_Soccerstar","useAB":1,"abIdx":130
+
+P90="url":"InGame\/Weapons\/Weapon_Skin\/PW\/P90\/Prefab_Male_3P_PW_P90_Musicfall_Orange","useAB":1,"abIdx":131
+
+THOMPSON="url":"InGame\/Weapons\/Weapon_Skin\/PW\/Thompson\/Prefab_Male_3P_PW_Thompson_Musicfest","useAB":1,"abIdx":185
+
+M1887="url":"InGame\/Weapons\/Weapon_Skin\/PW\/M1887\/Prefab_Male_3P_PW_M1887_Goldblack"
+_________________________________________
