@@ -14,6 +14,7 @@ Hack FF เป็นโค๊ดสำหรับแก้ไขไฟล์เ
 วิ่งเร็ว
 
 คาตานะทะลุ
+
 สิ่งที่ต้องมี
 EXAGEAR APK=https://linkgenie.me/s/Jn7VJ
 
