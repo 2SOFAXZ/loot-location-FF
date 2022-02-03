@@ -367,3 +367,7 @@ THOMPSON="url":"InGame\/Weapons\/Weapon_Skin\/PW\/Thompson\/Prefab_Male_3P_PW_Th
 
 M1887="url":"InGame\/Weapons\/Weapon_Skin\/PW\/M1887\/Prefab_Male_3P_PW_M1887_Goldblack"
 _________________________________________
+Fast landing
+
+url":"InGame/AssistantItem/IceWall_Floor3x3
+_________________________________________
